@@ -14,6 +14,13 @@ Ensure its installed
 
 `tad describe` which will show its location as your template source 
 
+
+example output 
+```
+Template Repository: https://github.com/jduimovich/dance-standard-gitops.git
+Template Directory: /home/john/.tad/templates/templates
+```
+
 # Example usage
 
 ## Bootstrap a new gitops repo called `reponame` and add a component
