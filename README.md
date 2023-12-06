@@ -1,4 +1,12 @@
+
+# PoC moved to https://github.com/redhat-appstudio/tssc-sample-gitops
+
+# do not use this repo
+
+`----------------------------------------`
+
 # dance-standard-gitops
+
 
 # Gitops Repo Patterns
 
